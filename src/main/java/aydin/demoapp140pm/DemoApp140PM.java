@@ -7,7 +7,7 @@ package aydin.demoapp140pm;
 
 /**
  *
- * @author ilknur
+ * @author ilknur AYDIN
  */
 public class DemoApp140PM {
 
